@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:weightSum="1">
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:scrollbars="none"
+    >
+        <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <LinearLayout
+                    android:id="@+id/ly_part1"
+                    android:layout_alignParentTop="true"
+                    android:layout_width="match_parent"
+                    android:layout_height="150dp"
+                    android:orientation="vertical">
+
+                <LinearLayout
+                        android:id="@+id/rl_tabhomepage_viewpager"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:orientation="vertical">
+
+                    <android.support.v4.view.ViewPager
+                            android:id="@+id/viewPager"
+                            android:layout_width="match_parent"
+                            android:layout_height="205dp"
+                            android:layout_gravity="center"
+                            android:background="@color/lightskyblue"/>
+
+                    <LinearLayout
+                            android:id="@+id/viewGroup"
+                            android:layout_width="fill_parent"
+                            android:layout_height="15dp"
+                            android:layout_margin="5dp"
+                            android:gravity="center_horizontal|center_vertical"
+                            android:orientation="horizontal">
+                    </LinearLayout>
+                </LinearLayout>
+            </LinearLayout>
+
+            <SearchView
+                    android:layout_below="@+id/ly_part1"
+                    android:id="@+id/search_voice_btn"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/gray"
+            >
+
+            </SearchView>
+            <GridLayout
+                    android:id="@+id/rl_reservation"
+                    android:layout_width="match_parent"
+                    android:layout_height="200dp"
+                    android:columnCount="2"
+                    android:rowCount="2"
+                    android:layout_below="@+id/search_voice_btn"
+                    android:layout_alignParentLeft="true" android:layout_alignParentStart="true">
+
+                <Button
+                        android:text="约床"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/color3"
+                        android:layout_column="0"
+                        android:layout_row="0"
+                        android:layout_rowSpan="2"
+                        android:layout_columnWeight="1"
+                        android:layout_rowWeight="1"
+                />
+                <Button
+                        android:text="病历"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/color4"
+                        android:layout_column="1"
+                        android:layout_row="0"
+                        android:layout_rowWeight="1"
+                        android:layout_columnWeight="1"
+                />
+                <Button
+                        android:text="面询"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:background="@color/color6"
+                        android:layout_column="1"
+                        android:layout_row="1"
+                        android:layout_columnWeight="1"
+                        android:layout_rowWeight="1"
+                />
+
+            </GridLayout>
+
+
+            <RelativeLayout
+                    android:layout_alignParentBottom="true"
+                    android:layout_below="@id/rl_reservation"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+            >
+                <GridView
+                        android:id="@+id/gridView_pattern"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:horizontalSpacing="0.0dip"
+                        android:listSelector="@null"
+                        android:numColumns="3"
+                        android:scrollbars="none"
+                        android:stretchMode="columnWidth"
+                ></GridView>
+            </RelativeLayout>
+        </RelativeLayout>
+    </ScrollView>
+
+</LinearLayout>

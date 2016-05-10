@@ -1,0 +1,242 @@
+<resources
+        xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="app_name">医秘用户版</string>
+    <string name="text1">随着Windows Phone逐步渗入中国智能手机市场，Windows Phone作为移动操作平台的新锐，自然不会失宠。Windows Phone
+        7在中国没有流行的原因，很大程度上是因为在中国并没有上市。现在，诺基亚和微软宣布达成紧密战略合作之后，沉寂许久的Windows
+        Phone操作系统再次走入了人们关注的视野，成了移动应用开发者继iOS和Android之外的另一选择。
+    </string>
+    <string name="text2">
+        好友曾向我展示了最新的iPhone和iPad版《极品飞车》。游戏的渲染效果令人印象深刻，是款蓄势待发的优秀游戏。但是，游戏的前端是典型的UI设计偏差案例。但界面中有大量的属性数据等内容，它在玩家没有时间做决定时提供了过多的内容。这些内容能够显著改变他们的游戏体验，但却在玩家往往感受不到变化的时候呈现。
+    </string>
+    <string name="text3">
+        3月31日，第四届CocoaChina游戏开发者大会暨Cocos2D-X技术研讨会在北京举行。来自全世界的移动互联网精英在此交流经验、相互学习。同时这次我们有幸也采访到了CocoaChina的CEO陈昊芝先生。他将为我们揭秘苹果新榜单的算法秘密，并未我们带来捕鱼达人成功的推广经验，对微软Windows
+        Phone平台的吐槽和对未来3D技术趋势的前瞻。
+    </string>
+    <string name="text4">
+        北京时间4月1日消息，谷歌虽然一直以来都在地图产品上提供和完善各种各样的系统接口，但是迄今为止却一直忽略了广受欢迎的NES游戏。然而也就是今天搜索巨头谷歌利用愚人节的机会，“调皮”地推出流行的NES八位地图产品。
+    </string>
+    <string name="text5">
+        在NASA和美国国家地理的参与下，这群小鸟摆脱了地球引力，跑到了太空，这就是即将在2012年3月22日公测的《愤怒的小鸟：太空版》。为了让小鸟们成功解救出它们珍贵的“无价之蛋”，美国国家地理为此出版了一本书，来提供完成任务所需的关于行星、卫星、银河系等关于外太空的知识，并将于3月20日开始发售。
+    </string>
+    <string name="str_homepage">首页</string>
+    <string name="str_reservation">约床</string>
+    <string name="str_message">消息</string>
+    <string name="str_mine">我的</string>
+    <string name="str_friend_wardmate">病友圈</string>
+    <string name="str_friend_doctor">医生圈</string>
+    <string name="str_casehistory_baseinfo">基本资料</string>
+    <string name="str_casehistory_diagnosistreatment">诊治记录</string>
+    <string name="str_casehistory_uploadlist">病历图片</string>
+    <string name="default_casName">良好</string>
+    <string name="str_infectionHis">传染病史</string>
+    <string name="str_operationHis">手术外伤史</string>
+    <string name="str_allergicHis">过敏史</string>
+    <string name="str_bloodHis">输血史</string>
+    <string name="str_birthplace">籍贯</string>
+    <string name="str_engaged_in_occupation">从事职业</string>
+    <string name="str_smokingHis">吸烟史</string>
+    <string name="str_drinkingHis">饮酒史</string>
+    <string name="str_marriageHis">婚姻史</string>
+    <string name="str_menstrualHis">月经史</string>
+    <string name="str_familyHis">家族史</string>
+    <string name="str_remarks">备注</string>
+    <string name="title_gift_message">真情寄语:</string>
+    <string name="title_gift_sender">——用户:</string>
+    <string name="title_new_version">新版本提示:</string>
+    <string name="update">更新</string>
+    <string name="cancel_update">取消</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">提示信息</string>
+    <string name="notice_invalid_bmp_file">上传图片中存在无效的文件</string>
+    <string name="notice_file_limit_10M">图片大小不能超过10M</string>
+    <string name="notice_file_limit_2M">图片大小不能超过2M</string>
+    <string name="notice_confirm_order">确定确认订单吗?</string>
+    <string name="notice_complete_order">确定完成订单吗?</string>
+    <string name="notice_cancel_order">取消订单后不可恢复，确定取消吗?</string>
+    <string name="notice_delete">删除后不可恢复，确定删除吗?</string>
+    <string name="closedialog">关闭应用程序</string>
+    <string name="notice_patient_convert_doctor">温馨提示：提交医生资料审核期间，您的账户将暂时不能登录，审核后恢复使用。</string>
+    <string name="notice_invitation_code">温馨提示：填写邀请码您将获得积分奖励和医秘网为您提供的其他优惠</string>
+
+    <string name="link_copied">已复制链接:</string>
+    <string name="save">保存</string>
+    <string name="edit">编辑</string>
+    <string name="copy">复制</string>
+    <string name="confirm">确认</string>
+    <string name="reply">回复</string>
+    <string name="execute">执行</string>
+    <string name="sure">确定</string>
+    <string name="cancel">取消</string>
+    <string name="send">发送</string>
+    <string name="agree">同意</string>
+    <string name="reject">拒绝</string>
+    <string name="issue">发布</string>
+    <string name="delete">删除</string>
+    <string name="homepage_str_search">搜索</string>
+    <string name="str_nickname">用户昵称</string>
+    <string name="str_personinfo">个人信息</string>
+    <string name="str_qrcode">电子名片</string>
+    <string name="str_child">增加子账号</string>
+    <string name="str_be_doctor">注册为医生账号</string>
+    <string name="str_personalorder">我的订单</string>
+    <string name="str_wallet">我的钱包</string>
+    <string name="str_recommend_reward">引荐奖励</string>
+    <string name="str_thanksletter">我的感谢信</string>
+    <string name="thanksletter_title">感谢信</string>
+    <string name="str_helpcenter">帮助中心</string>
+    <string name="str_aboutus">关于我们</string>
+    <string name="currency_unit_cn">元</string>
+    <string name="accumulate_points_unit">积分</string>
+    <string name="str_helpcenter_item1">注册与登录</string>
+    <string name="str_helpcenter_item2">病历录入</string>
+    <string name="str_helpcenter_item3">预约面询</string>
+    <string name="str_helpcenter_item4">咨询服务</string>
+    <string name="str_helpcenter_item5">约床服务</string>
+    <string name="str_helpcenter_item6">网上商城</string>
+    <string name="str_helpcenter_item7">其他问题</string>
+    <string name="str_doctoragreement_item8">医生注册协议</string>
+    <string name="str_useragreement">用户注册协议</string>
+    <string name="str_agreement_item1">图文咨询</string>
+    <string name="str_agreement_item2">电话咨询</string>
+    <string name="str_agreement_item3">家庭医生</string>
+    <string name="str_agreement_item4">面询服务</string>
+    <string name="str_agreement_item5">约床服务</string>
+    <string name="scan_text">将二维码放入框内, 即可自动扫描</string>
+    <string name="invalidQRCode">无效的二维码</string>
+    <string name="invalidAD">无效的广告</string>
+    <string name="invalidOperate">无效的操作</string>
+    <string name="pull_to_refresh">下拉以更新</string>
+    <string name="refreshing">正在更新...</string>
+    <string name="release_to_refresh">放开以更新</string>
+    <string name="pull_to_load">上拉加载更多</string>
+    <string name="loading">正在载入...</string>
+    <string name="release_to_load">放开以加载更多</string>
+    <string name="end_of_list">没有更多内容了</string>
+    <string name="downloading_casehistory">下载病历...</string>
+    <string name="uploading_casehistory">上传病历...</string>
+    <string name="downloading_img">下载图片...</string>
+    <string name="uploading_img">上传图片...</string>
+    <string name="registering">注册...</string>
+    <string name="notice_net_slow">网速有点慢，请稍后。。。</string>
+    <string name="loaddinginfo_waitplease">信息加载中，请稍后...</string>
+    <string name="msgisnull">消息不能为空</string>
+    <string name="imgisnull">请重新选择图片上传</string>
+    <string name="chat_msg_is_null">无更多聊天内容</string>
+    <string name="list_is_null">列表数据为空</string>
+    <string name="doctor_register">注册成功,需要三个工作日审核,请耐心等待!</string>
+    <string name="str_version_updated">已是最新版本:</string>
+    <string name="title_available_points">用户可用积分：</string>
+    <string name="must_integer">安全密码必须为纯数字</string>
+    <string name="forget_pay_passwrod">忘记安全密码</string>
+    <string name="forget_login_passwrod">忘记登录密码</string>
+    <string name="reset_login_passwrod">重置登录密码</string>
+    <string name="choose_reset_passwrod_method">选择密码重置方式</string>
+    <string name="choose_time_hint">请选择时间服务</string>
+    <string name="reset_by_phone">通过手机号码重置密码</string>
+    <string name="reset_by_email">通过电子邮件重置密码</string>
+    <string name="reset_by_question">通过密保问题重置密码</string>
+    <string name="phone">手机号码</string>
+    <string name="email">电子邮件</string>
+    <string name="diagnosisinput_remarks_hint">为方便医生为您提供更好的服务，当您在目录中找不到诊治医院或科室时，请在此填写诊治医院或诊治科室的名称。
+    </string>
+    <string name="name_hint">您的真实姓名</string>
+    <string name="input_passwrod_hint">密码请输入</string>
+    <string name="set_passwrod_hint">6&#8211;24位数字/字母</string>
+    <string name="set_passwrod_again_hint">6&#8211;24位数字/字母</string>
+    <string name="set_pay_passwrod_hint">(6位数字)</string>
+    <string name="set_pay_passwrod_hint_">6位数字</string>
+    <string name="notice_pay_pwd">请输入6位数字的安全密码</string>
+    <string name="username_hint">6&#8211;20位数字/字母</string>
+    <string name="login_name_hint">注册时的手机或邮箱</string>
+    <string name="login_name_phone_hint">注册时的手机号码</string>
+    <string name="login_name_email_hint">注册时的电子邮箱</string>
+    <string name="input_org_pwd_hint">请输入原始密码</string>
+    <string name="out_of_msg_max_length">超出短信字数限制</string>
+    <string name="do_not_buy_this_service">您当前时间段未购买语音咨询服务</string>
+    <string name="lack_dependency">缺少依赖项</string>
+    <string name="setprivacy">设置隐私</string>
+    <string name="cancelprivacy">取消隐私</string>
+    <string name="invited_to_register">邀请注册</string>
+    <string name="log_out_cur_login">退出当前登录</string>
+    <string name="menu_casephoto_item1">涂改图片</string>
+    <string name="menu_casephoto_item2">查看图片</string>
+    <string name="menu_casephoto_item3">取消选择</string>
+    <string name="patient_item1">医生主页</string>
+    <string name="patient_item2">修改备注</string>
+    <string name="patient_item3">发送消息</string>
+    <string name="patient_item4">拨打电话</string>
+    <string name="patient_item5">立即聊天</string>
+    <string name="item1_home">找医生</string>
+    <string name="item2_home">约床</string>
+    <string name="item3_home">在线客服</string>
+    <string name="item4_home">诊治记录</string>
+    <string name="item5_home">病历图片</string>
+    <string name="case_img">病历图片</string>
+    <string name="upload_img">上传图片</string>
+    <string name="item6_home">网上商城</string>
+    <string name="item_rechargecenter">充值中心</string>
+    <string name="lorem_ipsum">
+        <![CDATA[Integer semper velit vel leo rutrum sed fermentum elit porta.]]></string>
+    <string name="title_template_step">Step</string>
+
+    <!-- 自定义组件 -->
+    <string name="lastUpdateTime">最近更新：%s</string>
+    <string name="load_full">已加载全部</string>
+    <string name="no_data">暂无数据</string>
+    <string name="more">加载中</string>
+    <!-- 消除警告，可忽略 -->
+    <string name="d">图片描述</string>
+    <string name="more_button">点击加载更多&gt;&gt;</string>
+
+    <!-- 图片浏览 -->
+    <string name="only_choose_num">超出可选图片张数</string>
+    <string name="str_cur_num">-/-</string>
+    <string name="finish">完成</string>
+    <string name="invalidSD">sdcard无效或没有插入！</string>
+    <string name="photo">选择相册</string>
+    <string name="album">相册</string>
+    <string name="back">返回</string>
+    <string name="preview">预览</string>
+    <string name="unfinished">完成</string>
+    <string name="camera_cancel">取消</string>
+    <string name="no_photo">相册没有图片</string>
+    <string name="onlineshop">&#160;&#160;&#160;&#160;用户可直接购买充值卡进行网上交易，
+        包括约床，面询,图文咨询，电话咨询等，个别交易需先注册才可以进行，
+        也可以通过购买充值卡给自己的账户充值。
+    </string>
+    <string name="mailcontent">您好，您的提出的问题我们已经看到，我们将会以最快时间解决</string>
+    <string name="str_ecard">电子名片</string>
+
+    <string name="send_crash">发送报告</string>
+    <string name="title_activity_send_crash">异常上报</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--     <string name="mymailcontent">&#160;&#160;&#160;&#160;在中国，每千人口拥有医生
+                                1.5人，病床2.4张。北京、上海、天津、重庆等大城市中均
+                                设有高水平的肿瘤、心脑血管、眼科、牙科、中医以及传染病等各种专科医
+                                院和众多综合医院；各省、自治区的中等城市中均设有
+                                    现代化设施完备的综合医院或专科医院。县、乡、村三级医疗预防保健网
+                                    在广大农村具有一定基础，县有中心医院，乡镇有卫生院，
+                                    行政村设有医疗点。由于医疗保健机构的建立健全，以及人们卫生习
+                                    惯的逐渐养成，中国人口死亡原因由以传染病、寄生虫病为主
+                                    转变为以恶性肿瘤、脑血管病和心脏病为主，死因构成已接近发达国家
+                                    水平。城乡居民的健康水平有较大提高，全国人口平均预期
+                                    寿命达到71.8岁，比世界平均水平高出5岁。\n
+                                    &#160;&#160;&#160;&#160;
+                                “预防为主”是中国卫生工作的重要经验之一，各级行政区域均建立
+                                以卫生防疫站等预防保健机构为主、具有卫生监督管理和防病职能的
+                                机构，形成了全国性的卫生监督和防疫网络。为集中力量消灭或控制
+                                部分严重威胁人民健康的传染病和地方病，全国人大和国务院颁布了
+                                《传染病防治法》和《全国1995年消灭脊髓灰质炎行动计划》、
+                                《中国2000年实现消除碘缺乏病规划纲要》等法规性文件，疾病防治
+                                工作得以进一步加强，并取得显著成效。\n
+                                &#160;&#160;&#160;&#160;2003年5月，国务院颁布
+                                《突发公共卫生事件应急条例》，表明突发公共卫生事件应急机制
+                                体系的建立已被纳入法制化轨道。国家将斥巨资建设突发公共卫生事件
+                                救治体系，以加强和提高紧急救援中心、医疗救治系统、医院信息管理
+                                系统的反映速度和应急能力，并就此继续加强与世界卫生组织的合作。</string> -->
+
+</resources>

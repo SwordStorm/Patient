@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#ffffff</color>
+    <color name="blue">#5491ec</color>
+    <color name="grey4">#444444</color>
+    <color name="grey9">#999999</color>
+    <color name="grey6">#666666</color>
+    <color name="transparent">#00000000</color>
+    <color name="greyee">#eeeeee</color>
+    <color name="grayd6">#d6d6d6</color>
+    <color name="gray_bg">#eeeeee</color>
+    <color name="red">#ff0000</color>
+
+    <color name="tip">#ff969696</color>
+    <color name="profile">#ff80611f</color>
+    <color name="actB_text">#ffc3c3c3</color>
+    <color name="grayline">#cccccc</color>
+    <color name="thin_gray">#E0E0E0</color>
+    <!-- 灰色 -->
+    <color name="dark_gray">#5F5F5F</color>
+    <!-- 白色 -->
+    <drawable name="gray_1">#F3F4F6</drawable>
+    <color name="txt_font">#303030</color>
+    <color name="gray_attention">#5A5858</color>
+    <color name="green">#339900</color>
+    <!-- 绿色 -->
+    <color name="black">#FF000000</color>
+    <!-- 蓝色 -->
+    <color name="blue_1">#00688B</color>
+    <!-- 深蓝 -->
+    <color name="purple">#8B2323</color>
+    <!-- 透明 -->
+    <color name="half_transparent">#aa000000</color>
+    <color name="half_transparent2">#80000000</color>
+    <!-- 半透明 -->
+    <color name="transparent_bg">#88838B8B</color>
+
+    <color name="thin_blue">#82C8F9</color>
+    <!-- 淡蓝 -->
+    <color name="thin_blue2">#DAF0FD</color>
+    <!-- 淡蓝 -->
+    <color name="transparent_blue">#bde2d0</color>
+    <!-- 淡蓝 -->
+    <color name="thin_thin_blue">#E7F5FE</color>
+    <!-- 浅蓝 -->
+    <color name="t_thin_blue">#bde2fd</color>
+    <!-- 红色 -->
+    <color name="textblue">#0360ae</color>
+    <!-- 字体蓝 -->
+    <color name="textblack">#3C3C3C</color>
+    <!-- 字体黑 -->
+    <color name="gold">#b89766</color>
+    <color name="chart_blue">#2593E8</color>
+    <!-- 蓝色 -->
+    <color name="chart_gray">#555555</color>
+    <!-- 横线 -->
+    <color name="chart_red">#F20606</color>
+    <!-- 红线 -->
+    <color name="chart_black">#5D5D5D</color>
+    <!-- 横粗线 -->
+
+    <color name="medical_listview_backgroud">#99ccff</color>
+    <color name="orange">#F16421</color>
+    <!-- 橙色 #ff7800 -->
+    <color name="transplate_green">#3f7903</color>
+    <!-- 亮绿色 -->
+    <color name="t_green">#66A31A</color>
+    <!-- 亮绿色 -->
+
+    <color name="thin_purple">#ad4ef6</color>
+    <!-- 浅紫色 -->
+    <color name="brown">#934013</color>
+    <!-- 棕色 -->
+    <color name="dark_blue">#064ea9</color>
+    <!-- 深蓝色 -->
+    <color name="thin_red">#F5B8B8</color>
+    <!-- 淡红 -->
+    <color name="text_blue">#148BD5</color>
+    <!-- 字体蓝色 -->
+    <color name="red_2">#BC0322</color>
+    <!-- 红色2 -->
+
+    <color name="gray">#A9A9A9</color>
+    <color name="lightskyblue">#87CEFA</color>
+
+
+    <color name="color0">#ef5b9c</color>
+    <color name="color1">#444693</color>
+    <color name="color2">#7f7522</color>
+    <color name="color3">#f47920</color>
+
+    <color name="color4">#8f4b2e</color>
+
+    <color name="color5">#454926</color>
+
+    <color name="color6">#f15b6c</color>
+
+    <color name="color7">#2e3a1f</color>
+
+    <color name="color8">#46485f</color>
+
+
+    <color name="color9">#7fb80e</color>
+
+
+    <color name="color10">#d71345</color>
+
+
+    <color name="color11">#121a2a</color>
+
+    <color name="color12">#181d4b</color>
+
+    <color name="color13">#6950a1</color>
+
+
+    <color name="color14">#225a1f</color>
+
+    <color name="color15">#007947</color>
+
+    <color name="color16">#840228</color>
+
+    <color name="color17">#11264f</color>
+
+    <color name="color18">#464547</color>
+
+    <color name="color19">#1d1626</color>
+    <color name="greydf">#dfdfdf</color>
+
+    <!-- 上传图片添加的颜色 -->
+    <color name="none_color">#00000000</color>
+    <color name="plugin_camera_black">#000000</color>
+    <color name="albumback">#E1E0DE</color>
+    <color name="style_red">#ff4c41</color>
+    <color name="style_divider_color">#C9C7CD</color>
+
+
+    <!-- camera二维码 -->
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+
+    <!-- 带格的GridView -->
+    <color name="griditems_bg">#ffe8ecef</color>
+    <color name="commo_text_color">#ff333333</color>
+    <color name="line">#ffd3dde6</color>
+
+</resources>
