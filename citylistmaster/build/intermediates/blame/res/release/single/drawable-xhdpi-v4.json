@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\exploded-aar\\Patient\\pinyinSearch\\unspecified\\res\\drawable-xhdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_btn_off_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_btn_off_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_title_search_disabled.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_title_search_disabled.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_back_u.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\ic_back_u.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_btn_off_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_btn_off_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\topbar_bg.9.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\topbar_bg.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_title_change_map_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_title_change_map_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_title_map_disabled.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_title_map_disabled.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_back_btn_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_back_btn_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_back_btn_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_back_btn_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_title_change_map_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_title_change_map_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_list_search_icon.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_list_search_icon.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\wb_list_search_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\wb_list_search_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\bookingdetail_public_close.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\bookingdetail_public_close.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\empty_page_search.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-xhdpi\\empty_page_search.png"
+    }
+]

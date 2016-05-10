@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gugalor.citylist.test" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <instrumentation
+        android:name="android.test.InstrumentationTestRunner"
+        android:functionalTest="false"
+        android:handleProfiling="false"
+        android:label="Tests for com.gugalor.citylist.test"
+        android:targetPackage="com.gugalor.citylist.test" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.Light.NoTitleBar" >
+        <uses-library android:name="android.test.runner" />
+
+        <meta-data
+            android:name="com.baidu.lbsapi.API_KEY"
+            android:value="pzkOwiaLl0qlGMnbwy14GQlh" />
+
+        <activity android:name="com.gugalor.citylist.home" >
+        </activity>
+        <activity android:name="com.gugalor.citylist.CityList" />
+        <activity android:name="com.gugalor.citylist.searchactivity" />
+
+        <service
+            android:name="com.baidu.location.f"
+            android:enabled="true"
+            android:process=":remote" >
+        </service>
+    </application>
+
+</manifest>

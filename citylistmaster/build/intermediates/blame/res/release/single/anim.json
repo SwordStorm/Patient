@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\anim\\city_locating_anim.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\anim\\city_locating_anim.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\anim\\publicloading.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\anim\\publicloading.xml"
+    }
+]

@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_btn_off_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_btn_off_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\common_alert_bg.9.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\common_alert_bg.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_list_search_icon.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_list_search_icon.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_title_change_map_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_title_change_map_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\exploded-aar\\Patient\\pinyinSearch\\unspecified\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_choose_city_normal.9.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\btn_choose_city_normal.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_locating_frame1.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_locating_frame1.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_list_search_pressed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_list_search_pressed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_title_drawable.9.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_title_drawable.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_locating_frame3.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_locating_frame3.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_btn_off_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_btn_off_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_switch_pressed.9.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_switch_pressed.9.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_locating_frame2.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_locating_frame2.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_letter_search_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_letter_search_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_locate_failed.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_locate_failed.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_title_search_disabled.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_title_search_disabled.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\publicloading1.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\publicloading1.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\city_locate_success.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\city_locate_success.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_title_change_map_disenabled.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_title_change_map_disenabled.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_title_change_map_normal.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_title_change_map_normal.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wb_list_search_enabled.png",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\src\\main\\res\\drawable-hdpi\\wb_list_search_enabled.png"
+    }
+]

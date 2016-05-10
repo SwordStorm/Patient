@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot_header_padding_blank.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot_header_padding_blank.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_search_list_item.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\city_search_list_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\empty_search_city_item.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\empty_search_city_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_home.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot_header_searchview.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot_header_searchview.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\searchlayout.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\searchlayout.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_hot_item_layout.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\city_hot_item_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_locate_layout.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\city_locate_layout.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\city_change_dailog.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\city_change_dailog.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot_header_padding.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot_header_padding.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\bookname_list.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\bookname_list.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\overlay.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\overlay.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot_item.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_title.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_title.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\public_cityhot_allcity.xml",
+        "source": "H:\\AndroidProject\\Patient\\citylistmaster\\build\\intermediates\\bundles\\debug\\res\\layout\\public_cityhot_allcity.xml"
+    }
+]
