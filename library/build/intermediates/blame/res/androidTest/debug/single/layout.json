@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_horizontal.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\pull_to_refresh_header_vertical.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\slide_view_merge.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\layout\\slide_view_merge.xml"
+    }
+]

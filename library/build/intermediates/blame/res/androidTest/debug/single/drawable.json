@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\register_btn_style1.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\register_btn_style1.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_bottom.xml",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\register_btn_uncheck.png",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\register_btn_uncheck.png"
+    },
+    {
+        "merged": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\register_btn_check.png",
+        "source": "H:\\AndroidProject\\Android2\\HealthcareDoctor\\library\\build\\intermediates\\bundles\\debug\\res\\drawable\\register_btn_check.png"
+    }
+]

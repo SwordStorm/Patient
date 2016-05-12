@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/HealthcareDoctor/HealthcareDoctor.iml" filepath="$PROJECT_DIR$/HealthcareDoctor/HealthcareDoctor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Patient.iml" filepath="$PROJECT_DIR$/Patient.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimipatient/app.iml" filepath="$PROJECT_DIR$/yimipatient/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/citylistmaster/citylistmaster.iml" filepath="$PROJECT_DIR$/citylistmaster/citylistmaster.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/pinyinSearch/pinyinSearch.iml" filepath="$PROJECT_DIR$/pinyinSearch/pinyinSearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yimipatient/yimipatient.iml" filepath="$PROJECT_DIR$/yimipatient/yimipatient.iml" />
     </modules>
   </component>
 </project>

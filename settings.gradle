@@ -1,1 +1,1 @@
-include ':app', ':citylistmaster', ':pinyinSearch'
+include ':yimipatient', ':citylistmaster', ':pinyinSearch', ':HealthcareDoctor', ':library'
